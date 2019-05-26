@@ -27,6 +27,22 @@ def user_input():
 			lst_empty.append(complete_word)
 
 		# Convert lst_empty to a set to remove duplicate words in the list
-		set_empty = set(lst_empty)
+	set_empty = set(lst_empty)
+	return set_empty
+
+
+def words_to_letters():
+	"""This method converts the words in set_empty to a list of individual letters. ie {kelvin} to ['k', 'e', 'l', 'v', 'i', 'n']."""
+	words_list = []
+
+	for word in user_input():
+		word_letters = [let for let in word]
+		words_list.append(word_letters)
+
+	return words_list
+
+
+if __name__ == '__main__':
+	print(words_to_letters())
 
 
