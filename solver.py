@@ -72,5 +72,11 @@ def final_list():
     return final_match
 
 
+""" Driver program. """
 if __name__ == '__main__':
-    print(final_list())
+    if len(final_list()) == 1:
+        print("\nThe word is", final_list()[0])
+
+    else:
+        print("\nPick the MOST suitable word from the list below\n")
+        print(final_list())
