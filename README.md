@@ -1,6 +1,7 @@
 # 4pics_1word
 
 **The Game**
+
 ![alt text](https://github.com/KelvinMuthama/4pics_1word/blob/develop/IMG-20190524-WA0005.jpg)
 
 This is a simple python app for solving the puzzle - **4 pics 1 word**
