@@ -58,5 +58,19 @@ def remove_duplicates():
     return list_words
 
 
+def final_list():
+    """This function holds our final list of words."""
+    non_duplicates = remove_duplicates()
+
+    final_match = []
+    for letter in non_duplicates:
+        if len(letter) == length:
+            final_word = ''.join(letter)
+            final_match.append(final_word)
+
+    final_match.sort()
+    return final_match
+
+
 if __name__ == '__main__':
-    print(remove_duplicates())
+    print(final_list())
