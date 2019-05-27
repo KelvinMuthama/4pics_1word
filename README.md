@@ -9,13 +9,13 @@ of the answer based on the following factors:
 1. **The LENGTH of the word**
 ```
 The longer the word the less the higher the probability of returning the 
-exact value. The reverse is true.
+exact word. The reverse is true.
 ```
 
 2. **The number of VOWELS given as the input**
 ```
 The more the number of vowels, the lower the probability returning the exact 
-value. The reverse is true. However, the correct result will be in the list of outputs.
+word. The reverse is true. However, the correct result will be in the list of outputs.
 ```
 **Running the application**
 ```
