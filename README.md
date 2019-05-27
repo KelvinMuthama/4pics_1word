@@ -1,4 +1,8 @@
 # 4pics_1word
+
+**The Game**
+![alt text](https://github.com/KelvinMuthama/4pics_1word/blob/develop/IMG-20190524-WA0005.jpg)
+
 This is a simple python app for solving the puzzle - **4 pics 1 word**
 However the app does not give the correct answer but rather probabilities 
 of the answer based on the following factors:
@@ -20,6 +24,10 @@ then run the app using the python command on the terminal. ie:
 ```
 * cd 4pics_1word
 * python solver.py
+
+**Output from the user's input**
+![alt](https://github.com/KelvinMuthama/4pics_1word/blob/develop/Screenshot%20from%202019-05-24%2020-15-28.png)
+
 
 **Authors**
 Kelvin Kamau
