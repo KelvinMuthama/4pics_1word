@@ -103,4 +103,3 @@ if __name__ == '__main__':
     else:
         print("\nPick the MOST suitable word from the list below\n")
         print(final_list())
-
