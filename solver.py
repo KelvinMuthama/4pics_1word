@@ -27,6 +27,8 @@ except NameError:
 
 
 def user_input():
+    """This function matches the user input against
+    our database. It makes use of regular expressions."""
 
     # This is the pattern the will be used by our re module
     pattern_to_match = '[' + letters + ']'
