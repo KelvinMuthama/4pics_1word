@@ -34,8 +34,8 @@ then run the app using the python command on the terminal. ie:
 Kelvin Kamau
 
 ## Acknoledgements
-I got the inspiration from my friend Bob Godia. Found him stuck in a certain level and
-I decided to try out this to help ;)
+I got the inspiration from my friend Bob Godia. Found him stuck on a certain level and
+I decided to challenge myself.
 
 
 
