@@ -9,7 +9,7 @@ However the app does not give the correct answer but rather probabilities
 of the answer based on the following factors:
 1. **The LENGTH of the word**
 ```
-The longer the word the less the higher the probability of returning the 
+The longer the word the higher the probability of returning the 
 exact word. The reverse is true.
 ```
 
